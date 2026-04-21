@@ -11,6 +11,7 @@ This interactive Streamlit application helps a gift and collectibles retail comp
    ```bash
    pip install -r requirements.txt
 Run the application: streamlit run app.py
+
 Data Source
 
 Dataset: UCI Online Retail Dataset (real transaction records from a UK-based online gift retailer, 2010–2011)
