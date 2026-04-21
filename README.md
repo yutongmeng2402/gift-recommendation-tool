@@ -12,28 +12,28 @@ This interactive Streamlit application helps a gift and collectibles retail comp
    pip install -r requirements.txt
 Run the application: streamlit run app.py
 
-Data Source
+## Data Source
 
 Dataset: UCI Online Retail Dataset (real transaction records from a UK-based online gift retailer, 2010–2011)
 Access Date: 20 April 2026
 Link: https://www.kaggle.com/datasets/mysarahmadbhat/customersegmentation
 Note: The original dataset (~40MB) is not uploaded to this repository due to size limit. Only the processed recommendations.csv is included.
 
-Key Features
+## Key Features
 
 RFM-based customer segmentation (4 segments)
 Personalized product bundle recommendations
 Before-After revenue impact visualization
 Business insights for each customer segment
 
-Repository Structure
+## Repository Structure
 
 app.py – Main Streamlit interactive tool
 online_retail_analysis.ipynb – Full data analysis workflow
 recommendations.csv – Pre-computed recommendations
 requirements.txt – Required Python packages
 
-Technologies
+## Technologies
 
 Python, Pandas
 Streamlit (interactive dashboard)
@@ -42,7 +42,9 @@ Plotly (visualization)
 Demo Video
 Watch the demo video
 (Please replace with your actual Mediasite link after uploading the video)
-Author
+
+## Author
+
 [Yutong Meng]
 ACC102 Mini Assignment – Track 4
 Xi'an Jiaotong-Liverpool University
