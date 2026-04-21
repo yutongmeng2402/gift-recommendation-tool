@@ -42,7 +42,7 @@ Plotly (visualization)
 ## Demo Video
 
 Watch the demo video
-(Please replace with your actual Mediasite link after uploading the video)
+
 
 ## Author
 
