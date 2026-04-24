@@ -10,7 +10,9 @@ This interactive Streamlit application helps a gift and collectibles retail comp
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
-Run the application: streamlit run app.py
+Run the application: 
+   ```bash
+   streamlit run app.py
 
 ## Data Source
 
