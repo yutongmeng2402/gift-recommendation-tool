@@ -11,9 +11,7 @@ This interactive Streamlit application helps a gift and collectibles retail comp
    ```bash
    pip install -r requirements.txt
 Run the application: 
-   ```bash
    streamlit run app.py
-
 
 ## Data Source
 
